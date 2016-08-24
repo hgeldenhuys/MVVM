@@ -1,4 +1,4 @@
-# MVVM
+# MVVM for Mendix
 MVVM is a pattern that facilitates separation of the front-end model from the business logic or domain model. The view-model can be seen as the converter, aspect or augmentation of your original domain model entity. It exists so that we can easily customize our model for UI representation without contaminating our domain model.
 
  
