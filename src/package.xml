@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mendix.com/package/1.0/">
+  <modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/">
+    <module name="MVVM" />
+    <projectFile path="project.mpr" />
+    <files>
+      <file path="javasource\mvvm\actions\InitializeViews.java" />
+      <file path="javasource\mvvm\actions\UpdateViews.java" />
+      <file path="javasource\mvvm\actions\RequestId.java" />
+      <file path="javasource\mvvm\actions\UpdateModelFromView.java" />
+      <file path="javasource\mvvm\actions\LoadViews.java" />
+      <file path="javasource\mvvm\actions\GetViews.java" />
+      <file path="javasource\mvvm\actions\CloneSource.java" />
+      <file path="javasource\mvvm\actions\CloneAndCommitWithoutEvents.java" />
+      <file path="javasource\mvvm\actions\IsChanged.java" />
+    </files>
+  </modelerProject>
+</package>
